@@ -1,7 +1,5 @@
 <h1>Coffee Project</h1>
 
-<hr>
-
 <p>
     Bu proje göze hitap eden estetik bir kahve dükkanı web sitesi tasarımıdır. Zarif dizaynıyla dikkatleri çekmektedir.
 </p>
